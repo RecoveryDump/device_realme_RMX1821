@@ -1,0 +1,19 @@
+boot_magic: ANDROID!
+kernel_size: 9705840
+kernel load address: 0x40080000
+ramdisk size: 23893791
+ramdisk load address: 0x55000000
+second bootloader size: 0
+second bootloader load address: 0x40f00000
+kernel tags load address: 0x54000000
+page size: 2048
+os version: 9.0.0
+os patch level: 2019-01
+boot image header version: 1
+product name: 
+command line args: bootopt=64S3,32N2,64N2 buildvariant=user veritykeyid=id:7e4333f9bba00adfe0ede979e28ed1920492b40f
+additional command line args: 
+recovery dtbo size: 79027
+recovery dtbo offset: 0x200c000
+boot header size: 1648
+ramdisk format: gzip

@@ -1,0 +1,13 @@
+{
+    "base": "0x00000000",
+    "board": "",
+    "cmdline": "bootopt=64S3,32N2,64N2 buildvariant=user veritykeyid=id:7e4333f9bba00adfe0ede979e28ed1920492b40f",
+    "header_version": "1",
+    "kernel_offset": "0x40080000",
+    "os_patch_level": "2019-01",
+    "os_version": "9.0.0",
+    "pagesize": "0x00000800",
+    "ramdisk_offset": "0x55000000",
+    "second_offset": "0x40f00000",
+    "tags_offset": "0x54000000"
+}
